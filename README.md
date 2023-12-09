@@ -4,7 +4,13 @@ Urbaton is a C# project created for a hackathon. It showcases the capabilities o
 
 ## Demo
 
-   <video width="630" height="300" src="Demo.mp4"></video>
+ <video width="320" height="240" controls>
+    <source src="Demo.mp4" type="video/mp4">
+  </video>
+  
+
+<video width="630" height="300" src="Demo.mp4"></video>
+   
 
 
 
