@@ -18,12 +18,7 @@ To run the demo, simply navigate to the root directory of the project and play t
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - YourEmail@example.com
-
-Project Link: [https://github.com/your_username/urbaton](https://github.com/your_username/urbaton)
+Dima - t.me/runiger
